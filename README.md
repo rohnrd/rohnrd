@@ -1,6 +1,37 @@
 # 👋 Hi, I'm Rajamohan Rajendran
 
-🚀 Azure DevOps Engineer | Terraform | AKS | APIM | Mender OTA | Infrastructure Automation  
+⚙️ Core Technical Expertise
+    ☁️ Cloud & Platform Engineering
+        Microsoft Azure (VMs, AKS, APIM, VNet, NSG, Private Endpoints)
+        Azure Landing Zones & enterprise-scale architecture
+        Hybrid environments (On-prem + Cloud integration)
+    🏗 Infrastructure as Code (IaC)
+        Terraform (Modular design, reusable components)
+        Automated provisioning pipelines
+        Environment reproducibility (Greenfield & Brownfield)
+    🔁 CI/CD & DevOps Automation
+        Azure DevOps Pipelines (YAML-based automation)
+        GitHub Actions
+        Automated build, release, and deployment strategies
+        Multi-environment pipeline orchestration
+    🐳 Containerization & Orchestration
+        Docker & Docker Compose
+        Kubernetes (AKS)
+        Container-based microservices architecture
+    🔐 DevSecOps & Governance
+        Secure infrastructure design (Zero Trust principles)
+        Policy enforcement & compliance
+        Security scanning integration in pipelines
+    🖥 Systems & Automation
+        Linux System Administration (Ubuntu, RHEL)
+        Windows Server automation
+        SCVMM & Hyper-V VM provisioning
+        Ansible-based configuration management
+    📡 Edge & IoT Platform Engineering
+        Mender OTA (Over-the-Air Updates)
+        Device lifecycle management;
+        Embedded / SBC-based environments
+        Secure remote update pipelines 
 📍 Pune, India  
 
 ---
