@@ -95,4 +95,5 @@ Infrastructure-as-Code pipelines with:
 ## 📫 Contact
 
 📧 Available for DevOps collaboration  
-🔗 LinkedIn: (add link)
+🔗 LinkedIn: www.linkedin.com/in/rajamohanrajendran
+🔗 Website: https://www.rajamohanrajendran.com/
