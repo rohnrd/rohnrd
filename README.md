@@ -58,7 +58,7 @@ Automated reusable Azure VM image creation to avoid:
 - Storage duplication
 - Manual configuration drift
 
-🔗 [View Project](https://github.com/rohnrd/your-golden-image-repo)
+🔗 [View Project](https://github.com/rohnrd/Linux-golden-image-repo)
 
 ---
 
