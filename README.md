@@ -61,6 +61,20 @@ Automated reusable Azure VM image creation to avoid:
 🔗 [View Project](https://github.com/rohnrd/Linux-golden-image-repo)
 
 ---
+### Web-Based RDP with Apache Guacamole
+
+Secure browser-based remote desktop access using Apache Guacamole, Nginx, Docker, and HTTPS.
+
+- Clientless RDP access from browser
+- Nginx reverse proxy with SSL
+- Docker-based Guacamole deployment
+- Domain-based secure remote access
+- Clipboard and file transfer support
+- Troubleshooting and validation runbook
+
+🔗 [View Project](https://github.com/rohnrd/Web-Based-RDP-with-Apache-Guacamole)
+
+---
 
 ### 🔵 Azure DevOps CI/CD + Terraform
 Infrastructure-as-Code pipelines with:
