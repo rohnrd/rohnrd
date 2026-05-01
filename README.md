@@ -38,6 +38,18 @@
 
 ## 🔥 Featured Projects
 
+### 🛡️ Enterprise DevSecOps Platform (End-to-End Secure CI/CD)
+Production-grade DevSecOps pipeline on Azure with shift-left security and GitOps delivery.
+
+✔ GitHub Actions with OIDC — no stored Azure secrets  
+✔ SAST (SonarQube) · SCA + Container Scan (Trivy) · IaC Scan (Checkov)  
+✔ Policy-as-Code enforcement using OPA/Rego  
+✔ GitOps deployment via ArgoCD + Azure Container Apps  
+✔ Artifact traceability — Nexus (.tgz) + GHCR (versioned images)  
+
+🔗 [View Project](https://github.com/rohnrd/enterprise-devsecops-platform)
+---
+
 ### 🟢 Mender OTA on Azure (End-to-End Setup)
 Secure over-the-air updates using Mender Open Source deployed on Azure VMs.
 
