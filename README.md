@@ -48,6 +48,7 @@ Production-grade DevSecOps pipeline on Azure with shift-left security and GitOps
 ✔ Artifact traceability — Nexus (.tgz) + GHCR (versioned images)  
 
 🔗 [View Project](https://github.com/rohnrd/enterprise-devsecops-platform)
+
 ---
 
 ### 🟢 Mender OTA on Azure (End-to-End Setup)
